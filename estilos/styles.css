@@ -16,8 +16,8 @@
   color: rgb(0, 0, 0);
 }
 
-.btn-outline{
-    color: red;
+.btn-outline {
+  color: red;
 }
 
 .card-title {
@@ -52,4 +52,7 @@
     transparent 75%,
     transparent
   );
+}
+.card {
+  box-shadow: 0px 10px 10px black;
 }
