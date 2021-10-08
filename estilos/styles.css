@@ -24,16 +24,27 @@
   text-align: center;
 }
 
-.btn-danger {
-  display: flex;
-  justify-content: center;
-}
-
 .btnsend {
   display: flex;
   align-items: center;
   justify-content: center;
 }
+
+.modal-body2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+background: none;
+}
+
+.modal-body-capitulo{
+  display: flex;
+  width: 100%;
+  height: 100%;
+}
+
 /*--- Barra Scroll ---*/
 ::-webkit-scrollbar {
   width: 10px;
